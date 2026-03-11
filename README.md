@@ -25,19 +25,19 @@ The diagrams below illustrate the current infrastructure supporting AI experimen
 
 ## AI Infrastructure
 
-![AI Infrastructure](diagrams/AI Infrastructure.png)
+![AI Infrastructure](diagrams/AI_Infrastructure.png)
 
 ---
 
 ## 10Gb Network Backbone
 
-![10Gb Network Backbone](diagrams/10Gb Network Backbone.png)
+![10Gb Network Backbone](diagrams/10Gb_Network_Backbone.png)
 
 ---
 
 ## CyberLab Architecture
 
-![CyberLab Architecture](diagrams/CyberLab Architecture.png)
+![CyberLab Architecture](diagrams/CyberLab_Architecture.png)
 
 ---
 
