@@ -41,13 +41,13 @@ Network Management
 ## Architecture
 
 ### AI Infrastructure
-![AI Infrastructure](diagrams/AI Infrastructure.png)
+[AI Infrastructure](diagrams/AI Infrastructure.png)
 
 ### 10Gb Network Backbone
-![Network Backbone](diagrams/10Gb Network Backbone.png)
+[Network Backbone](diagrams/10Gb Network Backbone.png)
 
 ### Cybersecurity Lab
-![CyberLab](diagrams/CyberLab Architecture.png)
+[CyberLab](diagrams/CyberLab Architecture.png)
 
 ## Project Goals
 
