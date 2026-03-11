@@ -1,54 +1,88 @@
 # J3LE AI CyberLab
 
-AI Infrastructure & Cybersecurity Research Lab
+J3LE AI CyberLab is a personal research environment focused on exploring the intersection of artificial intelligence infrastructure, high-performance networking, and cybersecurity experimentation.
 
-The J3LE AI CyberLab is a research environment focused on building secure and scalable infrastructure for AI agents, cybersecurity experimentation, and high-speed networking.
+The lab is designed to simulate small-scale enterprise infrastructure capable of supporting local AI agents, automation workflows, and segmented security environments.
 
-## Research Areas
+---
 
-- AI infrastructure
-- cybersecurity experimentation
-- network segmentation
-- AI automation
+# Lab Goals
 
-## Current Infrastructure
+The J3LE AI CyberLab focuses on several key areas of research and experimentation:
 
-Router:
-Ubiquiti UniFi Dream Machine Pro
+• Running local large language models (LLMs) for AI automation  
+• Building infrastructure capable of supporting AI agents  
+• Implementing high-speed internal networking for AI workloads  
+• Designing segmented network environments using VLANs  
+• Creating a cybersecurity testing environment for attack and defense simulations  
+• Experimenting with enterprise-style infrastructure architecture
 
-AI Server:
-Mac Mini running OpenClaw and Ollama
+---
 
-Internet:
-Spectrum 1Gb connection
+# Architecture
 
-## Planned Infrastructure
+The diagrams below illustrate the current infrastructure supporting AI experimentation, networking, and cybersecurity research.
 
-- 10Gb internal network backbone
-- dedicated AI dataset storage
-- GPU compute nodes
-- distributed AI services
+## AI Infrastructure
 
-## Architecture
+![AI Infrastructure](diagrams/AI Infrastructure.png)
 
-The lab uses a segmented VLAN model:
+---
 
-Home Network  
-IoT Devices  
-Cybersecurity Lab  
-AI Infrastructure  
-Network Management
-## Architecture
+## 10Gb Network Backbone
 
-### AI Infrastructure
-[AI Infrastructure](diagrams/AI Infrastructure.png)
+![10Gb Network Backbone](diagrams/10Gb Network Backbone.png)
 
-### 10Gb Network Backbone
-[Network Backbone](diagrams/10Gb Network Backbone.png)
+---
 
-### Cybersecurity Lab
-[CyberLab](diagrams/CyberLab Architecture.png)
+## CyberLab Architecture
 
-## Project Goals
+![CyberLab Architecture](diagrams/CyberLab Architecture.png)
 
-The goal of this project is to explore how enterprise-style network architectures can support local AI infrastructure and cybersecurity research environments.
+---
+
+# Technologies Used
+
+Networking
+• UniFi Dream Machine Pro  
+• VLAN segmentation  
+• High-speed switching architecture  
+
+AI Infrastructure
+• Ollama for local LLM inference  
+• OpenClaw AI agent orchestration  
+
+Cybersecurity
+• Kali Linux tools  
+• Virtualized attack/defense environments  
+• Security monitoring experimentation  
+
+Infrastructure
+• Mac Mini AI server
+• Local compute environment
+
+---
+
+# Future Roadmap
+
+Planned upgrades for the lab include:
+
+• Building a full 10Gb internal network backbone  
+• Adding additional AI compute nodes  
+• Creating dedicated storage for AI datasets  
+• Expanding the cybersecurity lab into a cyber-range environment  
+• Experimenting with distributed AI agents  
+• Implementing GPU acceleration for AI workloads
+
+---
+
+# Documentation
+
+This repository will document:
+
+• AI infrastructure architecture  
+• Networking design decisions  
+• Cybersecurity lab experiments  
+• AI agent experimentation  
+• Infrastructure automation
+
